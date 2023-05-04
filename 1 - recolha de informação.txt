@@ -1,0 +1,79 @@
+Apps já disponiveis:
+UBike:
+
+- Temos de criar uma conta obrigatóriamente
+- Possibilita ver todas as bicicletas da UBike disponiveis no mapa e onde as mesmas se encontram
+- É possivel reservar uma bicicleta clicando numa delas e fazer pagamento
+- O pagamento não está fucional então não consigo perceber o que se faria a seguir
+- É possivel encontrar uma bicicleta pelo número ou então fazer scan de um qr code
+- Existe uma secção de "Minhas viagens" que presumo  que seja para ver que viagens fizemos com a bicicleta que alugamos (não é possivel confirmar informação devido a não ser possivel alugar uma)
+- Também existe uma opção para adicionar métodos de pagamento
+- Uma opção de perfil com edição básica de nome, email, foto e password
+- Pela ausência de bicicletas em qualquer outras das instituições aderentes parece que app é dedicada para Beja
+
+- Segundo um ex colega de curso Pedro Pita as bicicletas continham um mecanismo de cadeado eletrónico que permitia bloquear a roda traseira onde quiséssmos a partir da app da u-bike.
+- Isto também funcionava assim para alugar uma bicicleta, ou seja, pela app ao alugar uma bicicleta conseguimos desbloquear a roda e andar com ela até acabar a reserva
+
+
+UBike Leiria:
+
+- Em geral não da para obter muita informação devido a app estar fora do ar já que não é possivel criar conta nem logar nem ver que bicicletas estão disponiveis
+- A maior diferença entre as apps é que esta dedicada só a Leiria
+- As únicas informações que consigo obter são pelas fotos da aplicação na App Store ou pela Play Store
+- É dito que tinha um mapa em tempo real onde mostrava as bicicletas e estações de bicicletas
+- Para desbloquear a bicicleta era pela app
+- E era possível ver que caminho de fazia com a bicicleta pela app e dava algumas informações como:
+
+	- Data
+	- Número da bicicleta
+	- Distância percorrida
+	- Duração da viagem
+	- O custo a pagar
+	- Onde começa o trajeto e data e hora
+	- Paragens faz e data e hora
+	- Destino pretendido data e hora
+
+UBike - U. Porto:
+
+- UBike do Porto é um sistema interno, ou seja, não se pode criar conta quem é de fora da Universidade do Porto
+- Existem também muito poucas informações sobre esta app
+- Informações dadas na página da app:
+	- Principais funcionalidades:
+
+		- Visualização da própria bicicleta
+		- Pontos de Interesse
+		- Registo das atividades
+
+	- "Usa a App UbikeUP para estares sempre a par da tua atividade UBike e monitorizares a tua pegada ecológica, nomeadamente a tua poupança de emissões CO2 por substituíres o teu carro pela bicicleta na tua mobilidade diária."
+- Nesta app é possivel fazer traking da viagem e monitorizar a pegada ecológica e poupança de emissões CO2
+
+Lime:
+
+- A lime é uma plantaforma com o mesmo intuito da UBike mas para o público geral
+- Também tem como objetivo a sustentabilidade, segurança e inovação
+- Este serviço não existe em Beja
+- Eles têm bicicletas e trotinetes elétricas
+- Para se usar o serviço:
+	- Fazer conta na app
+	- Adicionar método de pagamento
+	- Estar ao pé de um dos veiculos 
+	- Scanear o QR code e podemos usufruir
+- Tem várias funcionalidades
+- A app contém um mapa em tempo real que mostra onde existem os veiculos e se têm bateria.
+- É possivel pedir um sinal sonoro a um veículo para saber onde este se encontra caso não seja visivel
+- Ativar um filtro para se ver só bicicletas ou só trotinetes
+- Também guarda o histórico de viagens 
+- É possivel ativar promoções
+- Tem uma taxa para começar a andar de 1 euro
+- E depois são 15 cêntimos por minuto
+- Quando acabamos a viagem temos de parar a viagem na app e tirar uma foto do veiculo
+- Não está disponivel em Portugal mas é possivel comprar um pass da Lime
+
+Referências:
+https://apps.apple.com/app/ubike/id1424996407 - UBike
+https://apps.apple.com/us/app/u-bike-ipleiria-oficial/id1458601446 - UBike Leiria
+https://apps.apple.com/us/app/u-bike-u-porto/id1454494821 - UBike - U. Porto
+https://www.li.me/pt-pt - Lime
+https://www.youtube.com/watch?v=y7P5wrn2Kho - exemplo de utilazação da Lime
+https://www.youtube.com/watch?v=xs4Z16z7Hhc - outro exemplo de utilização da Lime com o Lime Pass
+Pedro Pita Ex Aluno de Eng. Informática
