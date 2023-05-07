@@ -1,0 +1,76 @@
+Estes requesitos são pensados apenas para app de dispositivos moveis.
+
+Requesitos funcionais:
+
+- Primeiro que tudo se usar app deve ter um login obrigatório que até deve ser interno so para alunos do politécnico
+- Na app ja estando registado deve aparecer um mapa em tempo real com as bicicletas disponveis:
+	- Um botão para scan do QR code nas bicicletas.
+	- Um botão para colocar um bicicleta pelo nº de indentificação da mesma caso esta esteja razurada.
+- Ainda no mapa deverá ser possivel ver postos de carregamento do dispositivo (mais sobre isso nos requesitos não funcionais)
+- Um menu lateral:
+	- Com o Perfil e dentro dele poder mudar Foto, Password, Email e Nrº telefone.
+	- Botão para as viagens já feitas.
+		- Deve existir um botão de refresh
+		- Deve aparecer todas as viagens e em cada uma delas (desordenado):
+			- Mostrar o percurso no mapa
+			- Data
+			- Número da bicicleta
+			- Distância percorrida
+			- Duração da viagem
+			- Paragens faz e data e hora
+			- Poupança de emissões CO2
+			- Pegada ecológica
+	- Botão para definições (desordenado):
+		- Idioma 
+		- Tema
+		- Termos e condições
+		- Contactar apoio ao cliente
+		- Eliminar conta
+		- Notificações 	
+			- Se existe uma bicicleta perto
+			- Se a bateria do dispositivo esta fraca
+			- Atingir meta de viagem
+			- Etc
+	- Ajuda
+
+IMPORTANTE: quando a bicicleta está a ser usada por alguém esta não será mostrada no mapa
+
+- Quanto a app para o lado de quem detem o serviço da U-Bike como por exemplo o Poltécncico:
+	- Irá ser uma app separada chamada U-Bike Management (Nome provisório e se será uma app separada também é provisório)
+	- Irá ter como é óbvio um login obrigatório
+	- Irá ter um mapa tal e qual a app normal mas ao clicar nas bicicletas terá mais informaçiões como o número interno e uma lista de quem já usou aquela bicicleta em específico e as
+ fotos depois de ser usada (melhor explicado nos requesitos não funcionais)
+	- Continuará a ter os botões de QR code e nº da bicicleta mas em vez de ser para alugar é para obter a mesma informação acima.
+	- O menu lateral:
+		- Terá o perfil tal como na app U-Bike
+		- Definições será igual mas sem as notficações
+		- Ajuda
+		- Todas as bicicletas 
+			- Irá haver uma listagem em tempo real das bicicletas e clicando é possivel saber:	
+				- Nº de bicicleta
+				- Todas as pessoas que já a usaram
+				- As fotos pós uso
+				- Bateria do dispsitivo da bike	
+				- Reiniciar dispositivo (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 
+				- Desligar dispositivo (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 
+				- Desativar dispositivo (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 
+				- Reset do dispositivo (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 
+		- Registar nova bicicleta
+			- Registar a bicicleta e o dispositivo
+
+
+Requesitos não funcionais:
+
+- Um dos requesitos mais importantes é quanto ao dispositivo da bicicleta:
+	- Deverá ser um cadeado eletrónico
+	- Deverá haver um cartão SIM para enviar os dados de onde se encontra a bicicleta e para identificação da mesma na app
+	- Deverá ser possivel desbloquear a roda com uma chave manualmente mesmo que esta se encontre descarregada
+	- Deverá ser possivel fazer o reset para mudar de bicicleta caso necessário (SÓ POSSIVEL COM U-BIKE MANAGEMENT)
+	- Poder desligar, reiniciar e desativar tanto manualmente com chave dos responsáveis e não de quem as usa, como pela app caso as bicicleta esteja parada e perto da pessoa com a U-Bike Managment
+- Deverão existir sitios para as bicicletas com carregadores para o dispositivo não se desligar/descarregar
+- Deverá existir um sítio para manutenção das bicicletas
+
+
+
+
+
