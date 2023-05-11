@@ -20,6 +20,7 @@ Requesitos funcionais:
 			- Paragens faz e data e hora
 			- Poupança de emissões CO2
 			- Pegada ecológica
+			- calorias queimadas
 	- Botão para definições (desordenado):
 		- Idioma 
 		- Tema
@@ -48,8 +49,10 @@ IMPORTANTE: quando a bicicleta está a ser usada por alguém esta não será mos
 		- Todas as bicicletas 
 			- Irá haver uma listagem em tempo real das bicicletas e clicando é possivel saber:	
 				- Nº de bicicleta
+				- Tipo de bicicleta (elétrica ou não)
 				- Todas as pessoas que já a usaram
 				- As fotos pós uso
+				- Emitir som
 				- Bateria do dispsitivo da bike	
 				- Reiniciar dispositivo (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 
 				- Desligar dispositivo (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 

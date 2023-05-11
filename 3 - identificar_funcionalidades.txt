@@ -1,0 +1,48 @@
+App U-Bike tem de ser capaz de:
+
+- Registar users.
+- Fazer login (tecnicamente é uma funcionalidade óbvia mas coloco-a na mesma).
+- Mostrar mapa com as bicicletas em tempo real e ainda a estações de carregamento.
+- Ser possivel alugar uma bicicleta com QR code ou com nr da bicicleta.
+- Registar viagens feitas com a bicicleta automáticamente ou por ordem do utilizador.
+- Listar viagens feitas.
+- Nas viagens deve ser possivel listar:
+	- Mostrar o percurso no mapa
+	- Data
+	- Número da bicicleta
+	- Distância percorrida
+	- Duração da viagem
+	- Paragens faz e data e hora
+	- Poupança de emissões CO2
+	- Pegada ecológica
+	- Calorias queimadas	
+- Ser possivel adicionar os consumos do veiculo pessoal para saber o quanto poupa em combustivel e em emissões CO2.
+- Ao finalizar uma viagem tirar uma fotografia para provar se ouve algum dano à bicicleta.
+- Ser possivel editar o perfil.
+
+
+App U-Bike Managment tem de ser capaz de:
+
+- Os utilizadores são criados manualmente e serão associados obrigatóriamente a uma instituição neste caso ao IPBeja.
+- O mapa irá apresentar as bicicletas mas não é possivel aluga-las mas sim mostrar informações internas como nr interno, viagens feitas, bateria do dispositivo etc.
+- Ser possivel visualizar todas as bicicletas associadas à instituição.
+- Ver as seguintes informações sobre qualquer bicicleta e permitir também as seguintas ações:	
+	- Nº de bicicleta
+	- Tipo de bicicleta (elétrica ou não)
+	- Todas as pessoas que já a usaram
+	- Quem a está a usar no momento
+	- As fotos pós uso
+	- Bateria do dispsitivo da bike	
+	- Emitir som
+	- Reiniciar dispositivo (se este se encontrar parado e perto de quem usa a app) 
+	- Desligar dispositivo (se este se encontrar parado e perto de quem usa a app) 
+	- Desativar dispositivo (se este se encontrar parado e perto de quem usa a app) 
+	- Reset do dispositivo (se este se encontrar parado e perto de quem usa a app) 
+	- Desassociar da instituição (se este se encontrar parado e perto de quem usa a app) 
+
+- Registar nova bicicleta e dispositivo associando-os automáticamente à instituição da conta U-Bike Managment.
+- Gerar código de autorização para assitência técnica por parte da Empresa da U-Bike. Isto para não permitir a empresa não conseguir visualizar estas informaçãos sem concentimento.
+
+
+- Na app existiram utilizadores especiais que são capazes de criar contas e associá-las as instituições. (Estes utilizadores são administradores da U-Bike)
+- Conseguem ver as informações acima de qualquer instituição mas só com um código gerado a partir da app e dado pela instituição para permitir a visualização de dados em caso de problema ou falha.
