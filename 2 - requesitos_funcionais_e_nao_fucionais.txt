@@ -2,7 +2,13 @@ Estes requesitos são pensados apenas para app de dispositivos moveis.
 
 Requesitos funcionais:
 
-- Primeiro que tudo se usar app deve ter um login obrigatório que até deve ser interno so para alunos do politécnico
+- Primeiro que tudo se usar app deve ter um login obrigatório que até deve ser interno so para alunos do politécnico, ou seja, usar o login do Office.
+- Será lhe atribuido automáticamente uma bicicleta e mostrará no mapa onde esta se encontra. Caso não lhe seja atribuído terá de se dirigir ao gabinete da U-Bike para que lhe seja atribuida uma
+	- quais quer danos a esta bicicleta são responsabilidade do utilizador a menos que os danos lhe sejam alheios
+	- poderá alugar outras bicicletas caso se encontre longe da própria ou ainda não lhe tenha sido atribuida
+- Existiram dois tipos de bicicletas 
+	- públicas: qualquer aluno poderá usa-las desde que as alugue
+	- privadas: cada um terá direito a uma não será possivel ser vista no mapa por mais ninguem. A menos que por alguma razão de perda mau funcionamento etc terá de se dirigir ao gabinete da U-Bike e ai os responsaveis poderam ver onde esta se encontra.
 - Na app ja estando registado deve aparecer um mapa em tempo real com as bicicletas disponveis:
 	- Um botão para scan do QR code nas bicicletas.
 	- Um botão para colocar um bicicleta pelo nº de indentificação da mesma caso esta esteja razurada.
@@ -58,6 +64,7 @@ IMPORTANTE: quando a bicicleta está a ser usada por alguém esta não será mos
 				- Desligar dispositivo (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 
 				- Desativar dispositivo (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 
 				- Reset do dispositivo (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 
+				- Desassociar de um utilizador (se este se encontrar parado e perto de quem usa a app, mais sobre o reset nos requesito funcionais) 
 		- Registar nova bicicleta
 			- Registar a bicicleta e o dispositivo
 
@@ -69,7 +76,9 @@ Requesitos não funcionais:
 	- Deverá haver um cartão SIM para enviar os dados de onde se encontra a bicicleta e para identificação da mesma na app
 	- Deverá ser possivel desbloquear a roda com uma chave manualmente mesmo que esta se encontre descarregada
 	- Deverá ser possivel fazer o reset para mudar de bicicleta caso necessário (SÓ POSSIVEL COM U-BIKE MANAGEMENT)
-	- Poder desligar, reiniciar e desativar tanto manualmente com chave dos responsáveis e não de quem as usa, como pela app caso as bicicleta esteja parada e perto da pessoa com a U-Bike Managment
+	- Poder desligar, reiniciar e desativar tanto manualmente com chave dos responsáveis e não de quem as usa, como pela app caso as bicicleta esteja parada e perto da 
+pessoa com a U-Bike Managment
+	- Poder desassociar de um aluno para associoar com outro.
 - Deverão existir sitios para as bicicletas com carregadores para o dispositivo não se desligar/descarregar
 - Deverá existir um sítio para manutenção das bicicletas
 

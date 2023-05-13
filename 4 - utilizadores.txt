@@ -1,0 +1,10 @@
+Os users para o projeto vão ser:
+
+U-Bike:
+	- Aluno do IPBeja em licenciatura - poderá ter uma bicicleta não elétrica não poderá alugar elétricas.
+	- Aluno do IPBeja em mestrado - poderá ter uma bicicleta elétrica ou não depende da preferência do próprio.
+	- Professor do IPBeja - terá as mesmas condições do aluno de mestrado.
+
+U-Bike Management:
+	- Gestor da U-Bike no IPBeja - terá todas as permissões faladas na análise de funcionalidades.
+	- Gestores de U-Bike - terá as permissões mencionadas no mesmo documento.

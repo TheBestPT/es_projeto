@@ -2,7 +2,8 @@ App U-Bike tem de ser capaz de:
 
 - Registar users.
 - Fazer login (tecnicamente é uma funcionalidade óbvia mas coloco-a na mesma).
-- Tem de ser possivel realizar o registo/login com Google, Microsoft Account, Apple ID e Facebook.
+- Tem de ser possivel realizar o registo.
+- Mostrar que bicicleta foi atribuida e onde a mesma se encontra.
 - Mostrar mapa com as bicicletas em tempo real e ainda a estações de carregamento.
 - Ser possivel alugar uma bicicleta com QR code ou com nr da bicicleta.
 - Registar viagens feitas com a bicicleta automáticamente ou por ordem do utilizador.
@@ -41,6 +42,7 @@ App U-Bike Managment tem de ser capaz de:
 	- Desativar dispositivo (se este se encontrar parado e perto de quem usa a app) 
 	- Reset do dispositivo (se este se encontrar parado e perto de quem usa a app) 
 	- Desassociar da instituição (se este se encontrar parado e perto de quem usa a app) 
+	- Desassociar de um utilizador (se este se encontrar parado e perto de quem usa a app) 
 
 - Registar nova bicicleta e dispositivo associando-os automáticamente à instituição da conta U-Bike Managment.
 - Gerar código de autorização para assitência técnica por parte da Empresa da U-Bike. Isto para não permitir a empresa não conseguir visualizar estas informaçãos sem concentimento.
